@@ -1,4 +1,4 @@
-# scarockezan.com
+# express-react-template
 Boilerplate full-stack MERN app with authentication using passport and JWTs.
 
 ## Configuration
